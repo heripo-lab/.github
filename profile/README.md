@@ -7,7 +7,7 @@ heripo lab is an open-source R&D group that combines archaeological domain knowl
 - 2026 Feb — Signed an MOU with [The Korean Archaeological Society](https://www.kras.or.kr)
 - 2026 Jan — Open-sourced [heripo engine](https://github.com/heripo-lab/heripo-engine)
 - 2026 Jan — Cho, Hayoung joined as an archaeology & ontology researcher
-- 2025 Nov — Released [heripo research radar (Korean cultural heritage newsletter)](https://github.com/heripo-lab/heripo-research-radar)]
+- 2025 Nov — Released [heripo research radar (Korean cultural heritage newsletter)](https://github.com/heripo-lab/heripo-research-radar)
 - 2025 Nov — Released [LLM Newsletter Kit (LLM-based newsletter framework)](https://github.com/heripo-lab/llm-newsletter-kit-core)
 - 2025 Sep — Released [Archaeological Informatization PoC (PoC snapshot from a KCI-listed paper)](https://github.com/heripo-lab/archaeological-informatization-poc)
 
