@@ -4,6 +4,7 @@ heripo lab is an open-source R&D group that combines archaeological domain knowl
 
 ## 🕖 History
 
+- 2026 Mar — Kim, Gaeun joined as a software engineer
 - 2026 Feb — Signed an MOU with [The Korean Archaeological Society](https://www.kras.or.kr)
 - 2026 Jan — Open-sourced [heripo engine](https://github.com/heripo-lab/heripo-engine)
 - 2026 Jan — Cho, Hayoung joined as an archaeology & ontology researcher
@@ -51,3 +52,12 @@ This separation ensures authenticity, traceability, and academic verifiability.
 - Research:
   - [Considerations for Structuring Maritime Cultural Heritage Data](https://doi.org/10.22917/island.2025..66.271) (2025, KCI Listed)
   - [Semantic Data Design for Maritime Cultural Heritage: Focusing on Ancient Shipwrecks and Wooden Tablets Excavated from the Taean Mado Waters](https://lib.aks.ac.kr/#/search/detail/1036933) (2025, Master’s Thesis)
+
+### 🛠️ Kim, Gaeun (Software Engineer)
+
+- Role: Development of archaeology research platforms
+- Background:
+  - Software Engineer
+  - M.A. in Archaeology (Coursework Completed)
+  - B.A. in Archaeology
+  - B.A. in Library and Information Science
