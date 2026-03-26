@@ -51,3 +51,11 @@ This separation ensures authenticity, traceability, and academic verifiability.
 - Research:
   - [Considerations for Structuring Maritime Cultural Heritage Data](https://doi.org/10.22917/island.2025..66.271) (2025, KCI Listed)
   - [Semantic Data Design for Maritime Cultural Heritage: Focusing on Ancient Shipwrecks and Wooden Tablets Excavated from the Taean Mado Waters](https://lib.aks.ac.kr/#/search/detail/1036933) (2025, Master’s Thesis)
+
+### 🛠️ Kim, Gaeun (Software Engineer)
+
+- Role: Development of newsletters and new research platforms
+- Background:
+  - Software Engineer
+  - B.A. in Archaeology
+  - B.A. in Library and Information Science
