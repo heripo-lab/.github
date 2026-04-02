@@ -47,7 +47,7 @@ This separation ensures authenticity, traceability, and academic verifiability.
 
 - Role: Archaeological data ontology design, data schema definition, and academic validation
 - Background:
-  - Ph.D. Candidate in Archaeology
+  - Ph.D. Student in Archaeology
   - M.A. in Cultural Informatics
 - Research:
   - [Considerations for Structuring Maritime Cultural Heritage Data](https://doi.org/10.22917/island.2025..66.271) (2025, KCI Listed)
