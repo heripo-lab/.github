@@ -53,7 +53,7 @@ This separation ensures authenticity, traceability, and academic verifiability.
   - Ph.D. Student in Archaeology
   - M.A. in Cultural Informatics
 - Research:
-  - [Considerations for Structuring Maritime Cultural Heritage Data](https://doi.org/10.22917/island.2025..66.271) (2025, KCI Listed)
+  - Considerations for Structuring Maritime Cultural Heritage Data (2025, *Journal of the Island Culture* No. 66, KCI Listed)
     - DOI: [10.22917/island.2025..66.271](https://doi.org/10.22917/island.2025..66.271)
   - [Semantic Data Design for Maritime Cultural Heritage: Focusing on Ancient Shipwrecks and Wooden Tablets Excavated from the Taean Mado Waters](https://lib.aks.ac.kr/#/search/detail/1036933) (2025, Master’s Thesis)
 
