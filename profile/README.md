@@ -65,3 +65,7 @@ This separation ensures authenticity, traceability, and academic verifiability.
   - M.A. in Archaeology (Coursework Completed)
   - B.A. in Archaeology
   - B.A. in Library and Information Science
+
+## 💖 Sponsor
+
+If you'd like to support heripo lab's open-source research, you can sponsor us via [fairy.hada.io/@heripo](https://fairy.hada.io/@heripo).
