@@ -68,4 +68,7 @@ This separation ensures authenticity, traceability, and academic verifiability.
 
 ## 💖 Sponsor
 
-If you'd like to support heripo lab's open-source research, you can sponsor us via [fairy.hada.io/@heripo](https://fairy.hada.io/@heripo).
+If you'd like to support heripo lab's open-source research, you can sponsor us through:
+
+- [Open Collective](https://opencollective.com/heripo-project) for general project sponsorship.
+- [fairy.hada.io/@heripo](https://fairy.hada.io/@heripo) for Korean individual supporters who prefer KRW payments.
