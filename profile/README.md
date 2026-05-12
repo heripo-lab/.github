@@ -1,3 +1,5 @@
+**English** | [한국어](./README.ko.md)
+
 ## About heripo lab
 
 heripo lab is an open-source R&D group that combines archaeological domain knowledge with software engineering expertise to drive practical research efficiency.
