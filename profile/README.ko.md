@@ -46,7 +46,7 @@ heripo는 기록, 데이터 추출, 표준화, 해석을 분리하는 계층형 
   - 「대형 언어 모델(LLM)을 활용한 고고학 정보화 연구 -발굴조사보고서의 메타데이터 자동 추출 파이프라인 개념 검증-」 (2025, 『헤리티지: 역사와 과학』 제58권 제3호, KCI 등재)
     - DOI: [10.22755/kjchs.2025.58.3.34](https://doi.org/10.22755/KJCHS.2025.58.3.34)
     - [한국어 원문](https://koreascience.kr/article/JAKO202570361249829.page)
-    - [공식 영문판 (PDF)](<https://files.heripo.com/archaelogical-informatization-poc/(Eng._Version)_KIM_Hongyeon_2025_A_Study_on_Archaeological_Informatization_Using_Large_Language_Models.pdf>)
+    - [공식 영문판 (PDF)](<https://files.heripo.org/archaelogical-informatization-poc/(Eng._Version)_KIM_Hongyeon_2025_A_Study_on_Archaeological_Informatization_Using_Large_Language_Models.pdf>)
 
 ### ✏️ 조하영 (Domain Researcher)
 
