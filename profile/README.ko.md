@@ -6,6 +6,8 @@ heripo lab은 고고학 도메인 지식과 소프트웨어 엔지니어링 기�
 
 ## 🕖 연혁
 
+- 2026년 6월 — [고려대학교 대학원 고고미술사학과](https://cuhc.korea.ac.kr/cuhc/5043/subview.do)에서 「AI시대의 문화유산 연구」를 주제로 특강 (김홍연, 조하영)
+- 2026년 6월 — [데이터야놀자](https://datayanolja.com/) 2026에서 「[문과생의 꿈이 오픈소스가 되기까지: 잠든 고고학 데이터를 발굴하는 LLM 파이프라인 구축기](https://youtu.be/BUeCWE_5Sl0?si=ec2meQofZfeJ36ym)」 주제로 발표 (김홍연)
 - 2026년 3월 — 김가은 소프트웨어 엔지니어 합류
 - 2026년 2월 — [한국고고학회](https://www.kras.or.kr)와 MOU 체결
 - 2026년 1월 — [heripo engine](https://github.com/heripo-lab/heripo-engine) 오픈소스 공개
