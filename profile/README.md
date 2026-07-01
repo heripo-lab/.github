@@ -6,6 +6,8 @@ heripo lab is an open-source R&D group that combines archaeological domain knowl
 
 ## 🕖 History
 
+- 2026 Jun — Special Lecture: Cultural Heritage Research in the AI Era, [Graduate School of Archaeology and Art History, Korea University](https://cuhc.korea.ac.kr/cuhc/5043/subview.do) (Kim, Hongyeon & Cho, Hayoung)
+- 2026 Jun — [Dataya Nolja](https://datayanolja.com/) 2026: [Building an LLM Pipeline to Excavate Sleeping Archaeological Data: How a Liberal Arts Student's Dream Became Open Source](https://youtu.be/BUeCWE_5Sl0?si=ec2meQofZfeJ36ym) (Kim, Hongyeon)
 - 2026 Mar — Kim, Gaeun joined as a software engineer
 - 2026 Feb — Signed an MOU with [The Korean Archaeological Society](https://www.kras.or.kr)
 - 2026 Jan — Open-sourced [heripo engine](https://github.com/heripo-lab/heripo-engine)
