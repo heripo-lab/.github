@@ -6,6 +6,8 @@ heripo lab is an open-source R&D group that combines archaeological domain knowl
 
 ## 🕖 History
 
+- 2026 Jul — Special Lecture: Archaeology Through Relationships: Social Network Analysis (SNA), [Department of Archaeology, Graduate School, Pusan National University](https://archaeology.pusan.ac.kr/archaeology/index..do) (Cho, Hayoung) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hayoung)
+- 2026 Jul — Special Lecture: AI for Archaeological Researchers: Understanding LLMs, Structuring Research Materials, Security, and Validation, [Department of Archaeology, Graduate School, Pusan National University](https://archaeology.pusan.ac.kr/archaeology/index..do) (Kim, Hongyeon) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hongyeon-index)
 - 2026 Jun — Special Lecture: Cultural Heritage Research in the AI Era, [Graduate School of Archaeology and Art History, Korea University](https://cuhc.korea.ac.kr/cuhc/5043/subview.do) (Kim, Hongyeon & Cho, Hayoung) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-ku-2026-06-index)
 - 2026 Jun — [Dataya Nolja](https://datayanolja.com/) 2026: [Building an LLM Pipeline to Excavate Sleeping Archaeological Data: How a Liberal Arts Student's Dream Became Open Source](https://youtu.be/BUeCWE_5Sl0?si=ec2meQofZfeJ36ym) (Kim, Hongyeon)
 - 2026 Mar — Kim, Gaeun joined as a software engineer
