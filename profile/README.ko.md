@@ -6,7 +6,9 @@ heripo lab은 고고학 도메인 지식과 소프트웨어 엔지니어링 기�
 
 ## 🕖 연혁
 
-- 2026년 6월 — [고려대학교 대학원 고고미술사학과](https://cuhc.korea.ac.kr/cuhc/5043/subview.do)에서 「AI시대의 문화유산 연구」를 주제로 특강 (김홍연, 조하영)
+- 2026년 7월 — [부산대학교 대학원 고고학과](https://archaeology.pusan.ac.kr/archaeology/index..do)에서 「관계로 보는 고고학: 사회관계망분석(SNA)」을 주제로 특강 (조하영) — [강의 자료](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hayoung)
+- 2026년 7월 — [부산대학교 대학원 고고학과](https://archaeology.pusan.ac.kr/archaeology/index..do)에서 「고고학 연구자를 위한 AI 활용법: LLM의 이해, 연구자료 구조화, 보안과 검증」을 주제로 특강 (김홍연) — [강의 자료](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hongyeon-index)
+- 2026년 6월 — [고려대학교 대학원 고고미술사학과](https://cuhc.korea.ac.kr/cuhc/5043/subview.do)에서 「AI시대의 문화유산 연구」를 주제로 특강 (김홍연, 조하영) — [강의 자료](https://github.com/heripo-lab/special-lecture-ku-2026-06-index)
 - 2026년 6월 — [데이터야놀자](https://datayanolja.com/) 2026에서 「[문과생의 꿈이 오픈소스가 되기까지: 잠든 고고학 데이터를 발굴하는 LLM 파이프라인 구축기](https://youtu.be/BUeCWE_5Sl0?si=ec2meQofZfeJ36ym)」 주제로 발표 (김홍연)
 - 2026년 3월 — 김가은 소프트웨어 엔지니어 합류
 - 2026년 2월 — [한국고고학회](https://www.kras.or.kr)와 MOU 체결
