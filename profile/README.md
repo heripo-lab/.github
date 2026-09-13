@@ -2,10 +2,11 @@
 
 ## About heripo lab
 
-heripo lab is an open-source R&D group that combines archaeological domain knowledge with software engineering expertise to drive practical research efficiency.
+heripo lab is a nonprofit organization that brings together archaeology and software engineering to make research resources more accessible. We build open-source tools and turn excavation reports into open data that researchers can explore, compare, and reuse.
 
 ## 🕖 History
 
+- 2026 Sep — Started alpha testing for [heripo basecamp](https://heripo.app), an archaeology research tool built around excavation reports
 - 2026 Jul — Special Lecture: Archaeology Through Relationships: Social Network Analysis (SNA), [Department of Archaeology, Graduate School, Pusan National University](https://archaeology.pusan.ac.kr/archaeology/index..do) (Cho, Hayoung) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hayoung)
 - 2026 Jul — Special Lecture: AI for Archaeological Researchers: Understanding LLMs, Structuring Research Materials, Security, and Validation, [Department of Archaeology, Graduate School, Pusan National University](https://archaeology.pusan.ac.kr/archaeology/index..do) (Kim, Hongyeon) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hongyeon-index)
 - 2026 Jun — Special Lecture: Cultural Heritage Research in the AI Era, [Graduate School of Archaeology and Art History, Korea University](https://cuhc.korea.ac.kr/cuhc/5043/subview.do) (Kim, Hongyeon & Cho, Hayoung) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-ku-2026-06-index)

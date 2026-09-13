@@ -2,10 +2,11 @@
 
 ## heripo lab 소개
 
-heripo lab은 고고학 도메인 지식과 소프트웨어 엔지니어링 기술을 결합하여, 실질적인 연구 효율화를 이끄는 오픈소스 R&D 그룹입니다.
+heripo lab은 고고학과 소프트웨어 엔지니어링을 결합하여 연구 자료의 접근성을 높이는 비영리단체입니다. 오픈소스 도구를 개발하고, 발굴조사보고서를 연구자가 탐색·비교·재활용할 수 있는 오픈데이터로 전환합니다.
 
 ## 🕖 연혁
 
+- 2026년 9월 — 발굴조사보고서 기반 고고학 연구 지원 도구 [헤리포 베이스캠프](https://heripo.app) 알파 테스트 시작
 - 2026년 7월 — [부산대학교 대학원 고고학과](https://archaeology.pusan.ac.kr/archaeology/index..do)에서 「관계로 보는 고고학: 사회관계망분석(SNA)」을 주제로 특강 (조하영) — [강의 자료](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hayoung)
 - 2026년 7월 — [부산대학교 대학원 고고학과](https://archaeology.pusan.ac.kr/archaeology/index..do)에서 「고고학 연구자를 위한 AI 활용법: LLM의 이해, 연구자료 구조화, 보안과 검증」을 주제로 특강 (김홍연) — [강의 자료](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hongyeon-index)
 - 2026년 6월 — [고려대학교 대학원 고고미술사학과](https://cuhc.korea.ac.kr/cuhc/5043/subview.do)에서 「AI시대의 문화유산 연구」를 주제로 특강 (김홍연, 조하영) — [강의 자료](https://github.com/heripo-lab/special-lecture-ku-2026-06-index)
