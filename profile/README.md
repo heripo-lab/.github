@@ -2,10 +2,13 @@
 
 ## About heripo lab
 
-heripo lab is a nonprofit organization that brings together archaeology and software engineering to make research resources more accessible. We build open-source tools and turn excavation reports into open data that researchers can explore, compare, and reuse.
+heripo lab is a nonprofit organization that brings together archaeology and software engineering. We turn knowledge in excavation reports into data linked to original records and sources, and build open-source tools and research platforms that help researchers and the wider public reuse it.
 
 ## 🕖 History
 
+- 2026 Nov 7 — Presented “From Accumulation to Circulation: The Next 50 Years of Korean Archaeology” at the Future Generations Forum of the 50th Annual Meeting of the Korean Archaeological Society (Kim, Hongyeon & Cho, Hayoung) — R&D applications in education and cultural content, and a vision for knowledge circulation
+- 2026 Nov 6 — Presented the poster “A Three-Stage Model and Openness Strategy for Transforming Excavation Reports into Data” at the 50th Annual Meeting of the Korean Archaeological Society (Cho, Hayoung; Kim, Hongyeon; Kim, Gaeun)
+- 2026 Oct 30 — Released [heripo engine 0.2.0](https://github.com/heripo-lab/heripo-engine/tree/v0.2.0), implementing archaeological data ledger extraction
 - 2026 Sep — Started alpha testing for [heripo basecamp](https://heripo.app), an archaeology research tool built around excavation reports
 - 2026 Jul — Special Lecture: Archaeology Through Relationships: Social Network Analysis (SNA), [Department of Archaeology, Graduate School, Pusan National University](https://archaeology.pusan.ac.kr/archaeology/index..do) (Cho, Hayoung) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hayoung)
 - 2026 Jul — Special Lecture: AI for Archaeological Researchers: Understanding LLMs, Structuring Research Materials, Security, and Validation, [Department of Archaeology, Graduate School, Pusan National University](https://archaeology.pusan.ac.kr/archaeology/index..do) (Kim, Hongyeon) — [Lecture Materials](https://github.com/heripo-lab/special-lecture-pnu-2026-07-hongyeon-index)
@@ -21,22 +24,26 @@ heripo lab is a nonprofit organization that brings together archaeology and soft
 
 ## 📚 Research Objectives
 
-- Archaeological excavation reports hold vast knowledge, yet remain largely unstructured.
-- heripo treats this not as a technical problem, but as a structural constraint of research practice.
-- The group transforms excavation records into structured, verifiable data without losing source context.
-- Technology supports research practice — interpretation and judgment remain with researchers.
-- heripo builds a sustainable research infrastructure for comparative and cumulative archaeology.
+- **Find and verify archaeological materials**: Link information about features and artifacts to original records and sources so researchers can explore, compare, and verify it.
+- **Democratize archaeological knowledge**: Help teachers, planners, and creators, as well as researchers, find materials and reuse them in their own work. Experts remain essential to reviewing source context and the limits of interpretation and reconstruction.
+- **Move from accumulation to circulation**: Put archaeological knowledge to use in education, exhibitions, and cultural content, and bring the questions and materials arising from that use back into research, conservation, and management.
 
 ## ⚙️ Data Design Principles
 
-heripo adopts a layered data model that separates documentation, data extraction, standardization, and interpretation:
+We distinguish report records from classifications and interpretations used in research, keeping transformed data traceable to its evidence.
 
-1. Document Structure Extraction — Preserve chapters, tables, figures, and images as-is.
-2. Archaeological Data Ledger — Record facts in a source-faithful, immutable form.
-3. Standardization — Apply standards selectively depending on research goals.
-4. Ontology — Define semantic relations for cross-site comparison and analysis.
+1. **Document structure extraction** — Extract chapters, text, tables, drawings, and photographs with links to their original locations.
+2. **Archaeological data ledger** — Preserve report authors’ observations, judgments, and interpretations with original text and sources, without rewriting or normalization. Flag uncertain judgments for review.
+3. **Multiple standard models** — Accommodate classification, naming, and chronological systems that vary by research purpose, with their scope, lineage, and version.
+4. **Ontology** — Connect sites, features, artifacts, and related concepts through semantic relationships whose evidence can be traced.
 
-This separation ensures authenticity, traceability, and academic verifiability.
+Ledger extraction was **implemented experimentally in heripo engine 0.2.0**. It has been developed and evaluated on three reports; broader coverage and a stable ledger format are next steps. Multiple standard models and ontology integration remain future work.
+
+## 🔓 Tools and Open Data
+
+- [heripo engine](https://github.com/heripo-lab/heripo-engine) provides report processing and ledger extraction under Apache-2.0.
+- [heripo basecamp](https://heripo.app) helps researchers explore report data alongside original records. It is in invitation-only private alpha testing.
+- We plan to share eligible transformed data under CC BY 4.0 with provenance, review status, and version information, together with model definitions and mapping rules. This will support reuse outside the platform and commercial use.
 
 ## 👥 Team & Background
 
