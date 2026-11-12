@@ -2,7 +2,7 @@
 
 ## About heripo lab
 
-heripo lab is a nonprofit organization that brings together archaeology and software engineering. We turn knowledge in excavation reports into data linked to original records and sources, and build open-source tools and research platforms that help researchers and the wider public reuse it.
+heripo lab is a nonprofit organization that brings together archaeology and software engineering. We turn knowledge in excavation reports into data linked to original records and sources, and build open-source tools and research platforms that help researchers and the wider public use it.
 
 ## 🕖 History
 
@@ -24,8 +24,8 @@ heripo lab is a nonprofit organization that brings together archaeology and soft
 
 ## 📚 Research Objectives
 
-- **Find and verify archaeological materials**: Link information about features and artifacts to original records and sources so researchers can explore, compare, and verify it.
-- **Democratize archaeological knowledge**: Help teachers, planners, and creators, as well as researchers, find materials and reuse them in their own work. Experts remain essential to reviewing source context and the limits of interpretation and reconstruction.
+- **Find and verify archaeological materials**: Link information about features and artifacts to original records and sources so researchers can explore, compare, and verify it. Experts remain essential to reviewing source context and the limits of interpretation and reconstruction.
+- **Democratize archaeological knowledge**: Enable archaeological knowledge built through society’s collective investment to be used across different fields. Lower barriers to finding and understanding materials so more people can check the evidence and use it to create new educational resources, exhibitions, and cultural content.
 - **Move from accumulation to circulation**: Put archaeological knowledge to use in education, exhibitions, and cultural content, and bring the questions and materials arising from that use back into research, conservation, and management.
 
 ## ⚙️ Data Design Principles
